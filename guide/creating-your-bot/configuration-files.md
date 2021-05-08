@@ -42,7 +42,7 @@ As previously mentioned, you'll probably want to store more than just your token
 {
 	"prefix": "!",
 	"token": "your-token-goes-here",
-	"meaning_of_life": 42,
+	"meaning_of_life": 69,
 	"passwords_array": ["please", "dont", "hack", "me"],
 	"secret_passcodes": {
 		"bank": 1234,
